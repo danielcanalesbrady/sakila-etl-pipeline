@@ -1,0 +1,37 @@
+# Entorno virtual 
+venv/
+env/
+.env/
+
+# Archivos de caché de Python 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de secretos y configuración local (¡MUY IMPORTANTE!)
+.env
+.env.local
+.env.*.local
+
+# Archivos de logs y bases de datos locales
+*.log
+*.sqlite
+*.db
+
+# Carpetas de outputs (Excels generados) - OPCIONAL
+reports/*.xlsx
+*.xlsx
+
+# Archivos de editores de texto (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas y cobertura
+.pytest_cache/
+.coverage
+htmlcov/

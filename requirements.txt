@@ -1,0 +1,16 @@
+Package           Version
+----------------- -----------
+et_xmlfile        2.0.0
+greenlet          3.5.2
+numpy             2.5.0
+openpyxl          3.1.5
+pandas            3.0.3
+pip               26.1.2
+PyMySQL           1.2.0
+python-dateutil   2.9.0.post0
+python-dotenv     1.2.2
+six               1.17.0
+SQLAlchemy        2.0.51
+typing_extensions 4.15.0
+tzdata            2026.2
+xlsxwriter        3.2.9
